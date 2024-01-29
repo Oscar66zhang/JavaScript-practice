@@ -1,0 +1,56 @@
+.contain{
+    display: flex;
+    align-items: center;
+    margin-left: 20rem;;
+}
+.row{
+    display: inline-flex;
+    gap: 20px;
+    list-style: none;
+    margin-left: 32rem;;
+    margin-top: 1.2rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+
+.contain-two{
+    display: flex;
+}
+.nav{
+ display: flex;
+ justify-items: center;
+ margin-left: 20rem;
+ 
+}
+
+.nav pre{
+    padding-top: 3.5rem;
+    margin-left: -9rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.photo img{
+    height: 300px;
+    width: 500px;
+    cursor: wait;
+  
+}
+
+.contain-3{
+ margin-left: 20rem;
+}
+.text{
+    margin-left: -1.5rem;
+}
+.text li{
+    list-style:disc;
+    cursor: pointer;
+}
+.image{
+    height: 500px;
+}
